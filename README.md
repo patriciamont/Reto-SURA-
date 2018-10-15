@@ -8,9 +8,11 @@ Sura actualmente cuenta con un número limitado de asesores, tiempo y agencias l
 Diseñar un canal digital que replique la experiencia de asesoramiento presencial. Tiene que expresar un trato preferencial y exclusivo con los usuarios, sin dejar de lado los valores de la empresa: Autogestión, simple, transparente y flexible.
 
 ## NUESTRA PROPUESTA
-* Prototipo Baja Fidelidad
-* Prototipo Alta Fidelidad Figma
-* Prototipo Interactivo
+* Prototipo Baja Fidelidad 
+* [Prototipo Alta Fidelidad Figma](https://www.figma.com/file/ayEe6W55d4YXTetWOK7pjISM/Sura)
+* [Prototipo Interactivo 1](https://marvelapp.com/60g85e7/screen/48924458)
+* [Iteración](https://www.figma.com/file/gUlMYK6DETiqDMHYQn9iGD/Sura-Iteraci%C3%B3n?node-id=0%3A1)
+* [Prototipo Interactivo 2](https://marvelapp.com/5j3f427/screen/49040406)
 
 ## RECOMENDACIONES
 __________________________________________________________
@@ -32,7 +34,7 @@ Además, la investigación también identificó las principales estrategias que 
 Sura busca llegar a más personas a través de un canal digital que le permita al usuario experimentar lo más parecido a un asesoramiento personal con un trato agradable, fluido, que refleje sus valores, Así, desea crear un vínculo de confianza sólido con sus usuarios, en donde este se sienta completamente asesorado y que este pueda pre-seleccionar un producto que haga match con sus necesidades en cualquier ámbito de su vida y desde cualquier medio, enfocándose en ahorros voluntarios con y sin fines previsionales.
 
 
-## 1.3 Entrevista usuario
+## 1.3 Entrevista a usuarios
 [Mira la guía de entrevista](https://docs.google.com/document/d/1b5Ty-o1FSDjBLRQC6dzTJZ7nZOXevRd7AMJJZEauI1s/edit?usp=sharing)
 
 * Affinity map
@@ -47,4 +49,14 @@ Sura busca llegar a más personas a través de un canal digital que le permita a
 ## 3. Ideación
 ![benchmark](https://user-images.githubusercontent.com/39272944/46798682-3e201800-cd18-11e8-9119-95cc54cc086b.PNG)
 ## 4. Prototipado
+* Prototipo Baja Fidelidad 
+* [Prototipo Alta Fidelidad Figma](https://www.figma.com/file/ayEe6W55d4YXTetWOK7pjISM/Sura)
+* [Iteración](https://www.figma.com/file/gUlMYK6DETiqDMHYQn9iGD/Sura-Iteraci%C3%B3n?node-id=0%3A1)
 ## 5. Testing
+El primer testing arrojó los siguientes hallazgos:
+* Los usuarios confunden el anuncio principal con un banner. No queda claro que 'Entérate aquí es un botón'.
+* No saben el nombre de la guia financiera virtual.
+* No observan los botones.
+* No commprenden en su tutalidad ell tema de objetivos.
+* Les resulta confuso entender las preguntas que evalúan riesgos. 
+* Quieren que sean específicos el canal de comunicación que se usará al para culminar el proceso. "Me gustaría que me avisen que me llegará un correo o algo así"
